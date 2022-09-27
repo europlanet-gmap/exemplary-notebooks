@@ -8,6 +8,6 @@ The notebooks are split accross directories according to the data source or data
 - [pds](./pds): search, download, process images from USGS-PDS archive.
 - [zenodo](./zenodo): access/publish data from/to Zenodo.
 
-## Authors
+## Developers
 
 If you are going to write a notebook, use the [TEMPLATE](TEMPLATE.ipynb) notebook as a starting point.
